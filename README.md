@@ -1,6 +1,7 @@
 # WORKSHOP-2--Object-detection-using-web-camera
 # YOLOv8 Object Detection Using Laptop Camera
-
+# Name : BUSHPIKA C
+# register no  :212225230038
 ## Aim
 
 To access the **laptop camera**, capture an image, and detect objects using **YOLOv8**.
