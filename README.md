@@ -86,23 +86,7 @@ else:
 cap.release()
 cv2.destroyAllWindows()
 ```
+## Output
 
-## Student Task
-
-* Capture your own image using the laptop camera.
-* Detect the objects present in the image.
-* Display the final output.
-* Perform the experiment with **3 different scenes**.
-
-## Submission
-
-* Jupyter Notebook (`.ipynb`)
-* Original captured images
-* YOLOv8 output images
-* Screenshot of the final result
-
-## GitHub Reference
-
-https://github.com/ultralytics/ultralytics
-
-**Platform:** Anaconda + Jupyter Notebook only.
+## Result
+The YOLOv8 model successfully loads and performs object detection using the webcam. The webcam captures video frames, and the model processes each frame to identify objects.
