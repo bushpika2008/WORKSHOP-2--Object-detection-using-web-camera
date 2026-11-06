@@ -88,5 +88,8 @@ cv2.destroyAllWindows()
 ```
 ## Output
 
+<img width="898" height="623" alt="image" src="https://github.com/user-attachments/assets/e7f83235-5c09-4ecb-bafd-13ca3b21db09" />
+
+
 ## Result
 The YOLOv8 model successfully loads and performs object detection using the webcam. The webcam captures video frames, and the model processes each frame to identify objects.
